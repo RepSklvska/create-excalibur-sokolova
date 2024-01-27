@@ -1,5 +1,5 @@
 import { ImageSource } from 'excalibur';
-import sword from './images/sword.png';
+import sword from '@/images/sword.png';
 
 /**
  * Default global resource dictionary. This gets loaded immediately
